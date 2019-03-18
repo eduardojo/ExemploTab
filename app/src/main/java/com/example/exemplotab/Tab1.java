@@ -22,7 +22,7 @@ public class Tab1 extends Fragment{
 
         View rootView =inflater.inflate(R.layout.tab1, container, false);
 
-        btn = (Button) rootView.findViewById(R.id.button1);
+       btn = (Button) rootView.findViewById(R.id.button1);
         btn.setOnClickListener(new View.OnClickListener() {
 
             @Override
