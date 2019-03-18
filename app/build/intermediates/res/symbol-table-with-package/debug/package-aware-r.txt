@@ -1076,7 +1076,6 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
-id constraintLayout
 id container
 id content
 id contentPanel
@@ -1176,7 +1175,6 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
-id section_label
 id select_dialog_listview
 id selected
 id shortcut
@@ -1298,7 +1296,6 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
-layout fragment_main
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
