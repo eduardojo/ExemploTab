@@ -36,6 +36,7 @@ public class Tab1 extends Fragment{
         return rootView;
     }
 
+    //Método para executar no click do botão
     public void setarTexto(View view)
     {
         Calendar data = Calendar.getInstance();
